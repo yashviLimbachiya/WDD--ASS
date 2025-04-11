@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 2px solid #444;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .vertical {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-weight: bold;
+  }
+  
+  .bold {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .blue {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .orange {
+    color: orange;
+    font-weight: bold;
+  }
+  
+  .purple {
+    color: purple;
+    font-weight: bold;
+  }
+  
+  .green {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .red {
+    color: red;
+    font-weight: bold;
+  }
+  
